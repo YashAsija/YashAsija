@@ -1,6 +1,6 @@
 # Hey, I'm Yash Asija 👋
 
-### AI Engineer in the Making | Full-Stack Developer | Building AI-Powered Products
+### AI Engineer in the Making | Building MakInvoices
 
 I'm a Computer Science undergraduate specializing in Data Science, passionate about building practical software that combines **AI, backend systems, data engineering, and intuitive user experiences**.
 
@@ -20,15 +20,19 @@ I enjoy taking ideas from prototype to deployment — from integrating LLMs into
 
 ### Tech Stack
 
-**Languages:** Python · JavaScript · TypeScript · SQL
+Languages: Python, JavaScript, TypeScript, SQL
 
-**Frontend:** React · Next.js · HTML · CSS · Tailwind CSS
+Frontend: React, Next.js, Tailwind CSS, HTML, CSS, Vite
 
-**Backend & Data:** Node.js · REST APIs · PostgreSQL · Supabase · Firebase
+Backend & APIs: Node.js, REST APIs, API integration
 
-**AI & Automation:** Gemini API · LangChain · n8n · LLM Integration
+AI & LLM Engineering: Google Gemini API, AWS Bedrock, LangChain, prompt engineering, LLM integration
 
-**Tools & Deployment:** Git · GitHub · Vercel · Render · Docker *(if used)*
+Data Engineering & Analytics: Pandas, NumPy, ETL pipelines, data processing, Power BI, Excel
+
+Databases & Geospatial: PostgreSQL, Firebase, Firestore, Supabase, MapLibre GL
+
+Automation & Deployment: n8n, Git, GitHub, Vercel, Render, cloud infrastructure
 
 ### Let's Connect
 
